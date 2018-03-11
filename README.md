@@ -14,7 +14,7 @@ Node Js version > 6
 ###src/component/modalDialog/modal.css
 
 #UI 
-![Image of initial landing](https://github.com/annaimaha/modal-dialog/tree/master/src/images/initial.png)
+![Image of initial landing](https://github.com/annaimaha/modal-dialog/blob/master/src/images/initial.png)
 
 
-![Image of initial page](https://github.com/annaimaha/modal-dialog/tree/master/src/images/modal_dialog_box.png)
+![Image of initial page](https://github.com/annaimaha/modal-dialog/blob/master/src/images/modal_dialog_box.png)
